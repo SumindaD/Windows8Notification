@@ -1,0 +1,7 @@
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\bin\Debug\Windows8NotificationConsoleApp.exe.config
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\bin\Debug\Windows8NotificationConsoleApp.exe
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\bin\Debug\Windows8NotificationConsoleApp.pdb
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\obj\Debug\Windows8NotificationConsoleApp.csproj.CoreCompileInputs.cache
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\obj\Debug\Windows8NotificationConsoleApp.exe
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\obj\Debug\Windows8NotificationConsoleApp.pdb
+D:\Code\Windows8Notification\Windows8NotificationConsoleApp\bin\Debug\Tatice-Cristal-Intense-Exclamation.ico

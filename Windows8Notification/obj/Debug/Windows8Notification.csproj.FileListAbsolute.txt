@@ -1,0 +1,11 @@
+D:\Code\Windows8Notification\Windows8Notification\bin\Debug\Windows8Notification.exe.config
+D:\Code\Windows8Notification\Windows8Notification\bin\Debug\Windows8Notification.exe
+D:\Code\Windows8Notification\Windows8Notification\bin\Debug\Windows8Notification.pdb
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.csprojAssemblyReference.cache
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.Form1.resources
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.Properties.Resources.resources
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.csproj.GenerateResource.cache
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.csproj.CoreCompileInputs.cache
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.exe
+D:\Code\Windows8Notification\Windows8Notification\obj\Debug\Windows8Notification.pdb
+D:\Code\Windows8Notification\Windows8Notification\bin\Debug\Tatice-Cristal-Intense-Exclamation.ico
